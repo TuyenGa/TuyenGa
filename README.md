@@ -1,7 +1,6 @@
-<a href="http://tuyenvq.com" style="padding-bottom: '.3em'; border-bottom: 1px solid #eaecef;"></a>
+<a href="http://tuyenvq.com" style="padding-bottom: '.3em'; border-bottom: 1px solid #eaecef;">
 <img align="center" src="https://github.com/TuyenGa/TuyenGa/blob/master/3392268.jpg" alt="Illustration of  tuyenga bubbles in background" width=1000px height=650px/>
-
-
+</a>
 
 
 - 🔭 I’m currently working on <a href="https://moneylover.vn/">Money Lover</a>
