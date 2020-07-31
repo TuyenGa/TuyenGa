@@ -1,11 +1,6 @@
-### Hi there 👋
+<img align="center" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of  tuyenga bubbles in background" width=465px height=350px/>
 
-<!--
-**TuyenGa/TuyenGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on <a href="https://moneylover.vn/">Money Lover</a>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
