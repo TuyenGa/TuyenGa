@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of  tuyenga bubbles in background" width=465px height=350px/>
+<img align="center" src="https://github.com/TuyenGa/TuyenGa/blob/master/3392268.jpg" alt="Illustration of  tuyenga bubbles in background" width=640px height=350px/>
 
 - 🔭 I’m currently working on <a href="https://moneylover.vn/">Money Lover</a>
 - 🌱 I’m currently learning ...
